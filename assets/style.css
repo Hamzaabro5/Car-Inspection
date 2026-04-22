@@ -72,8 +72,8 @@
   }
   .nav-links a {
     text-decoration: none;
-    font-weight: 500; font-size: 0.875rem;
-    color: var(--text-muted);
+    font-weight: 500; font-size: 1rem;
+    color: var(--text);
     transition: color .2s;
   }
   .nav-links a:hover { color: var(--navy); }
