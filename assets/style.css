@@ -578,6 +578,7 @@
     .nav-links { display: none; }
     .nav-mobile-btn { display: flex; align-items: center; }
     .btn-ghost { display: none; }
+    .trust-bar { width: 100%;}
     .stats-row { flex-direction: column; gap: 28px; }
     .stat-block { border-right: none; border-bottom: 1px solid rgba(255,255,255,0.08); padding-bottom: 28px; }
     .stat-block:last-child { border-bottom: none; }
